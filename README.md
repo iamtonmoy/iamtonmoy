@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtonmoy0&show_icons=true&locale=en" alt="iamtonmoy0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtonmoy0&" alt="iamtonmoy0" /></p>
+
+[![iamtonmoy0 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamtonmoy0&theme=github-compact)](https://github.com/iamtonmoy0/github-readme-activity-graph)
