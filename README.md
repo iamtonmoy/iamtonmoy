@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tonmoy;+Welcome+to+My+Profile!;Always+learning+new+things+;I+Love+to+build+thing+that+helps+people;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tonmoy;+Welcome+to+My+Profile!;+I am Hands+On+Polyglot+Developer+Who+Loves+Build+Innovative+Things;Always+learning+new+things+;Currently+I+Am+Learning+Block+Chain;)](https://git.io/typing-svg)
 
 
 <img src="https://github.com/iamtonmoy0/iamtonmoy0/blob/main/0_x4rQFjfi0iK3gS1T.gif">
