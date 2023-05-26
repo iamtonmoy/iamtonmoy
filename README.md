@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtonmoy0&" alt="iamtonmoy0" /></p>
 
-[![iamtonmoy0 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamtonmoy0&theme=github-compact)](https://github.com/iamtonmoy0/github-readme-activity-graph)
+
