@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tonmoy;+Welcome+to+My+Profile!;Always+learning+new+things+;I+Love+to+build+thing+that+helps+people;)](https://git.io/typing-svg)
 
-<img src="https://github.com/iamtonmoy0/iamtonmoy0/assets/51269703/67d92bc6-7269-48e5-8ff1-6f5a32df513a"  style="width:100%"/>
+<img src="https://github.com/iamtonmoy0/iamtonmoy0/assets/51269703/67d92bc6-7269-48e5-8ff1-6f5a32df513a"  style="width:80%;height:400px ;align-items:center"/>
 
 
 
