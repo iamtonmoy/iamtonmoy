@@ -16,8 +16,7 @@
 <a href="https://codepen.io/iamtonmoy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamtonmoy0" height="30" width="40" /></a>
 <a href="https://twitter.com/iamtonmoy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtonmoy0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamtonmoy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtonmoy0" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~0178594a917509131a" target="blank"><img align="center" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" alt="iamtonmoy0" height="40" width="40" /></a>
-  <a href="https://fiverr.com/tonmoy729" target="blank"><img align="center" src="https://i.pinimg.com/280x280_RS/9c/8e/b5/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" alt="iamtonmoy0" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
